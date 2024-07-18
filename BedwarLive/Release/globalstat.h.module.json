@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "BedwarLive\\Release\\globalstat.h.obj",
+            "outputs": [
+                "E:\\01Wormwaker\\02计算机技术\\C、C++\\LiveGames\\BedwarLive\\BedwarLive\\Release\\vc143.pdb",
+                "BedwarLive\\Release\\",
+                "E:\\01Wormwaker\\02计算机技术\\C、C++\\LiveGames\\BedwarLive\\BedwarLive\\Release\\globalstat.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "globalstat.h",
+                    "source-path": "e:\\01wormwaker\\02计算机技术\\c、c++\\livegames\\bedwarlive\\globalstat.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

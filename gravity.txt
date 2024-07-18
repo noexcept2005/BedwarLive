@@ -1,0 +1,18 @@
+//处理重力加速
+if (NoGravityEntity(id))	//无重力实体不做处理
+	;
+else if (GetType() == ProjectileType && h > 0.0 && !VoidPos(place, x, y)
+	|| void_fall 
+	|| !void_fall && h > 30.0)
+{
+	//v.y += VOID_FALL_G;
+	v_h -= VOID_FALL_G;	//负朝下，正朝上
+}
+else if (GetType() != ProjectileType
+	|| id == PrimedTNT)
+{
+	//v.y = 0.0;
+	v_h = 0.0;
+	if (id == PrimedTNT)
+		v.Clear();
+}
