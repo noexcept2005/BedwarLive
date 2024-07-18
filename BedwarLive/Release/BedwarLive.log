@@ -1,0 +1,258 @@
+﻿  BedwarLive.cpp
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(317,10): warning C4018: “>”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(323,10): warning C4018: “>”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(329,10): warning C4018: “>”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(335,10): warning C4018: “>”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(407,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(785,11): warning C4244: “初始化”: 从“ege::color_t”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(786,11): warning C4244: “初始化”: 从“ege::color_t”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(787,11): warning C4244: “初始化”: 从“ege::color_t”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(788,11): warning C4244: “初始化”: 从“ege::color_t”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\basic.h(808,12): warning C4244: “初始化”: 从“double”转换到“short”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x4f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x4f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x4fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x4fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x4fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x4fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x4fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x500 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\sound.h(1,1): warning C4828: 文件包含在偏移 0x501 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\texttip.h(37,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat.h(72,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(229,2): warning C4309: “初始化”: 截断常量值
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(229,2): warning C4369: “RedTeam”: 枚举数的值“-65536”不能表示为“unsigned int”，值是“-65536”
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(230,2): warning C4309: “初始化”: 截断常量值
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(230,2): warning C4369: “BlueTeam”: 枚举数的值“-16776961”不能表示为“unsigned int”，值是“-16776961”
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\userstat.h(108,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\userstat.h(149,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\userstat.h(157,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(88,13): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(579,52): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(579,52): warning C4244:         with
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(579,52): warning C4244:         [
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(579,52): warning C4244:             _T=int
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(579,52): warning C4244:         ]
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(684,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(684,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(775,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(775,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(783,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(783,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(871,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(871,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(941,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(941,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(965,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(964,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(979,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(979,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(985,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(985,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1000,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1000,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1000,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1000,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1002,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1002,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1002,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1002,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1004,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1004,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1004,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1004,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1006,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1006,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1006,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1006,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1013,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1013,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1020,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1020,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1411,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1411,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1430,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1431,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1479,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1480,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1730,7): warning C4250: “MeleeRangerEntity”: 通过域控制继承“RangerEntity::RangerEntity::ExtraBehaviours”
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1836,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1841,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\entity.h(1841,6): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bed.h(113,52): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bed.h(113,52): warning C4244:         with
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bed.h(113,52): warning C4244:         [
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bed.h(113,52): warning C4244:             _T=int
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bed.h(113,52): warning C4244:         ]
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bed.h(150,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(77,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(227,18): warning C4244: “return”: 从“_Ty”转换到“clock_t”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(227,18): warning C4244:         with
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(227,18): warning C4244:         [
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(227,18): warning C4244:             _Ty=float
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(227,18): warning C4244:         ]
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(231,18): warning C4244: “return”: 从“_Ty”转换到“clock_t”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(231,18): warning C4244:         with
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(231,18): warning C4244:         [
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(231,18): warning C4244:             _Ty=float
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\team.h(231,18): warning C4244:         ]
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(620,23): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(621,23): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(694,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(695,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(696,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(697,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(783,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(833,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(902,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(934,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(947,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1000,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1100,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1118,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1119,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1120,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1121,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1258,20): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。 请改用“__noop”内部函数
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1260,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1260,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1267,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1267,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1297,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1297,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1317,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1317,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1325,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1325,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1513,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1513,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1521,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1577,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1589,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1612,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1612,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1643,32): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1643,32): warning C4244:         with
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1643,32): warning C4244:         [
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1643,32): warning C4244:             _T=int
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1643,32): warning C4244:         ]
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1705,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1705,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1755,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1755,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1761,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1761,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1792,10): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1791,6): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1808,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1808,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1818,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1818,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1830,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1830,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1840,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1840,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(1854,50): warning C4018: “>=”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2021,15): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2169,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2169,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2179,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2179,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2209,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2209,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2216,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2216,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2243,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2243,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2248,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2248,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2267,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2267,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2271,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2271,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(13,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(514,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(514,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(659,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(659,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(723,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(723,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(775,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(775,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(797,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(797,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(866,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\chat_runner.h(866,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2445,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2445,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2499,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2499,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2501,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2549,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2555,40): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2555,40): warning C4244:         with
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2555,40): warning C4244:         [
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2555,40): warning C4244:             _T=int
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2555,40): warning C4244:         ]
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2555,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2555,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2573,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\bedwar.h(2615,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(353,3): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(352,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(351,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(366,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(368,48): warning C4018: “>=”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(405,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(418,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(545,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(673,2): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(674,2): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(675,2): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(676,2): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(677,2): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(697,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(699,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(699,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(701,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(701,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(713,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(713,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(712,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(725,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(741,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(861,46): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(871,49): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(947,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(955,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(965,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(972,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(974,3): warning C4002: 类函数宏的调用“setwcolor”参数过多
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(975,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(983,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(987,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(995,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(996,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1005,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1006,24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1009,2): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1012,2): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1017,2): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1019,2): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1032,2): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1033,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1049,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1059,3): warning C4002: 类函数宏的调用“setwcolora”参数过多
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1059,3): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1061,3): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1071,2): warning C4002: 类函数宏的调用“setwcolora”参数过多
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1071,2): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1073,2): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1175,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\BedwarLive.cpp(1216,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  10 of 4561 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  BedwarLive.vcxproj -> E:\01Wormwaker\02计算机技术\C、C++\LiveGames\BedwarLive\Release\BedwarLive.exe
